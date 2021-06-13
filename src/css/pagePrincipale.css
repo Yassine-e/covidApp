@@ -1,0 +1,21 @@
+.blocks{
+    /* background-color: blueviolet; */
+    display: flex;
+    margin: 10px 0px 78px 5%;}
+.deathsRecovered{
+    /* background-color: rgb(226, 43, 113); */
+    /* display: flex; */
+}
+.totalComfirmed{
+    /* width: 250px; */
+    /* background-color: blueviolet; */
+}
+.select{
+    /* background-color: brown; */
+    display: flex;
+    width: 1100px;
+    margin-left: -80px;
+}
+.graph{
+    background-color: cadetblue;
+}

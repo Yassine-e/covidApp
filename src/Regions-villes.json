@@ -1,0 +1,87 @@
+{
+    "Casablanca-Settat":
+    {
+        "idRegion":3,
+        "Villes":[
+        "Casablanca","Nouaceur","Mohammadia","El Jadida","Berrechid","Médiouna",
+        "Benslimane","Settat"
+        ]
+    },
+    "Rabat-Salé-Kénitra":
+    {
+        "idRegion":5,
+        "Villes":[
+        "Rabat","Skhirate- Témara","Salé","Kénitra","Sidi Kacem","Sidi Slimane"
+        ]
+    },
+    "Marrakech-Safi":
+    {
+        "idRegion":6,
+        "Villes":[
+        "Marrakech","Safi","Essaouira","El Kelâa des Sraghna","Al Haouz"
+        ]
+    },
+    "Tanger-Tétouan-Al Hoceima":
+    {
+        "idRegion":1,
+        "Villes":[
+        "Tanger-Assilah","Chefchaouen","M'Diq-Fnideq","Tétouan","Ouezzane"
+        ]
+    },
+    "Souss-Massa":
+    {
+        "idRegion":4,
+        "Villes":[
+        "Inezgane- Ait Melloul","Agadir-Ida -Ou-Tanane","Taroudannt","Tiznit","Chtouka- Ait Baha","Tata"
+        ]
+    },
+    "Fés-Meknés":
+    {
+        "idRegion":2,
+        "Villes":[
+        "Fès","Sefrou","Meknès","Taza","Taounate","El Hajeb"
+        ]
+    },
+    "Oriental":
+    {
+        "idRegion":7,
+        "Villes":[
+        "Berkane","Guercif","Nador","Driouch"
+        ]
+    },
+    "Laayoune-Sakia El Hamra":
+    {
+        "idRegion":9,
+        "Villes":[
+        "Tarfaya","Laâyoune"
+        ]
+    },
+    "Guelmim-Oued Noun":
+    {
+        "idRegion":10,
+        "Villes":[
+        "Tan Tan","Guelmim"
+        ]
+    },
+    "Eddakhla-Oued Eddahab":
+    {
+        "idRegion":11,
+        "Villes":[
+        "Oued Ed-Dahab"
+        ] 
+    },
+    "Drâa-Tafilalet":
+    {
+        "idRegion":12,
+        "Villes":[
+        "Errachidia","Tinghir","Ouarzazate"
+        ] 
+    },
+    "Beni Mellal-Khénifra":
+    {
+        "idRegion":8,
+        "Villes":[
+        "Khénifra","Salah Ben Fquih","Azilal"
+        ] 
+    }
+}
